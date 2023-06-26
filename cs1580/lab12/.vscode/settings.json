@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.uxml": "xml",
+		"cstdlib": "cpp",
+		"iostream": "cpp",
+		"new": "cpp"
+	}
+}
